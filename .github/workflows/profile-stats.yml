@@ -1,0 +1,43 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '17 11 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+      - name: Generate public activity card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&custom_title=GitHub%20Activity&show_icons=true&hide_rank=true&include_all_commits=true&show=prs_reviewed&bg_color=0d1117&title_color=d6b36d&icon_color=e16974&text_color=cdd3dc&hide_border=true&disable_animations=true&card_width=470
+          path: assets/github-stats.svg
+          core_version: '2.3.0'
+          fail_on_error: 'true'
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate public languages card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&custom_title=Languages%20in%20public%20code&layout=compact&langs_count=8&exclude_repo=karatekah&bg_color=0d1117&title_color=d6b36d&text_color=cdd3dc&hide_border=true&disable_animations=true&card_width=380
+          path: assets/github-languages.svg
+          core_version: '2.3.0'
+          fail_on_error: 'true'
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Save updated cards
+        run: |
+          git add assets/github-stats.svg assets/github-languages.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'docs: refresh profile cards'
+          git push
