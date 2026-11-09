@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Karatekah — samurai character art. Made by: Ҝ卂尺卂ㄒ乇Ҝ卂卄" />
+  <img src="assets/hero.svg" width="100%" alt="Karatekah profile banner with samurai character art" />
 </p>
 
 <p align="center">Building terminal tools, web applications and security-minded software.</p>
@@ -94,10 +94,10 @@
 
 ---
 
-<p align="center"><strong>Made by: Ҝ卂尺卂ㄒ乇Ҝ卂卄</strong></p>
+<p align="center"><strong>Ҝ卂尺卂ㄒ乇Ҝ卂卄</strong></p>
 
 <details>
-<summary>Open the text-only MOTD</summary>
+<summary>Copy the character art</summary>
 
 ```text
 ⠀⠀⠀⢰⡆
@@ -125,9 +125,6 @@
     ⢰⣶⣶⣶⣾⣿ ⣿⣿⣿⣿⣯⣿⣭⠁
     ⢰⣶⣶⣶⣾⣿ ⣿⣿⣿⣿⣯⣿⣭⠁
     ⢰⣶⣶⣶⣾⣿ ⣿⣿⣿⣿⣯⣿⣭⠁
-
-Made by: Ҝ卂尺卂ㄒ乇Ҝ卂卄
-Full stack development / Cybersecurity / Cloud
 ```
 
 </details>

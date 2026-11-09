@@ -1,4 +1,4 @@
-"""Build a GitHub-compatible banner with the user's Unicode samurai drawing."""
+"""Render a GitHub profile banner using the character-art sample."""
 from pathlib import Path
 from html import escape
 import xml.etree.ElementTree as ET
@@ -9,7 +9,7 @@ assert art and all(len(line) <= 60 for line in art)
 lines = "\n".join(f'<tspan x="830" y="{44+i*13.0:.1f}" textLength="{len(line)*8.0:.1f}" lengthAdjust="spacingAndGlyphs" fill="{"#e1be80" if i < 8 else "#e9d5bc"}">{escape(line.replace(" ", "⠀"))}</tspan>' for i, line in enumerate(art))
 banner = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
 <title id="title">Karatekah — Crimson Dojo</title>
-<desc id="desc">Karatekah. Samurai character art. Full stack development, cybersecurity and cloud. Made by: Ҝ卂尺卂ㄒ乇Ҝ卂卄</desc>
+<desc id="desc">Karatekah profile banner with samurai character art. Full stack development, cybersecurity and cloud.</desc>
 <defs>
 <linearGradient id="ink" x2="1" y2=".5"><stop stop-color="#101117"/><stop offset="1" stop-color="#1c1018"/></linearGradient>
 <linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#9b3445"/><stop offset="1" stop-color="#572131"/></linearGradient>
@@ -31,7 +31,7 @@ banner = f'''<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" v
 <text x="44" y="291" font-size="15" fill="#a99aa8">Terminal tools · Web applications · Open source</text>
 <path d="M44 329H575" stroke="#53303b"/>
 <path d="M44 329H98" stroke="#d6b36d" stroke-width="2"/>
-<text x="44" y="372" font-size="17" fill="#e0be7e">Made by: Ҝ卂尺卂ㄒ乇Ҝ卂卄</text>
+<text x="44" y="372" font-size="17" fill="#e0be7e">Ҝ卂尺卂ㄒ乇Ҝ卂卄</text>
 </g>
 <text font-family="Segoe UI Symbol,Consolas,monospace" xml:space="preserve" font-size="18">{lines}</text>
 <text x="930" y="379" text-anchor="middle" fill="#cb9497" font-size="12" font-family="Consolas,Courier New,monospace">[ discipline in every line ]</text>
