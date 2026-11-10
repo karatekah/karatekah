@@ -81,6 +81,10 @@
 
   [![stars](https://img.shields.io/github/stars/karatekah/passGenerator-Manage?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/passGenerator-Manage/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/passGenerator-Manage?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/passGenerator-Manage/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/passGenerator-Manage?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/passGenerator-Manage/commits)
 
+- 🛠️ [**Karatekah — GitHub profile**](https://github.com/karatekah/karatekah) — Samurai-themed profile README with technology badges and daily public GitHub activity cards. **Markdown · SVG · GitHub Actions.**
+
+  [![stars](https://img.shields.io/github/stars/karatekah/karatekah?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/karatekah/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/karatekah?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/karatekah/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/karatekah?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/karatekah/commits)
+
 <h2 align="center">📊 GitHub activity</h2>
 
 <p align="center">
