@@ -30,9 +30,11 @@
 <p align="center">
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logoColor=white&logo=dotnet" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logoColor=white&logo=nodedotjs" />
+<img alt="Bubble Tea" src="https://img.shields.io/badge/Bubble%20Tea-EC4899?style=flat&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-149ECA?style=flat&logoColor=white&logo=react" />
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logoColor=white&logo=angular" />
 <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logoColor=white&logo=astro" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logoColor=white&logo=vite" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0891B2?style=flat&logoColor=white&logo=tailwindcss" />
 <img alt="Oracle APEX" src="https://img.shields.io/badge/Oracle%20APEX-B3272C?style=flat&logoColor=white" />
 </p>
@@ -60,18 +62,23 @@
 <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat&logoColor=white" />
 <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle%20Cloud-B3272C?style=flat&logoColor=white" />
 <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logoColor=white&logo=cloudflare" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat&logoColor=white&logo=vercel" />
 <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-C8A600?style=flat&logoColor=white" />
 </p>
 
 <h2 align="center">✨ Selected projects</h2>
 
-- 💬 [**Karatty**](https://github.com/karatekah/karatty) — Experimental encrypted terminal messaging with SSH-key identities, accepted 1:1 chats and local E2EE. **Go · Rust · PostgreSQL.**
+- 💬 [**Karatty**](https://github.com/karatekah/karatty) — Experimental terminal chat with SSH-key identities, accepted 1:1 conversations, local E2EE and encrypted archives. **Go · Rust · PostgreSQL.**
+
+  [Download alpha](https://github.com/karatekah/karatty/releases/tag/v0.1.0-alpha.1) · [Quick start](https://github.com/karatekah/karatty/blob/main/docs/quickstart.md) · Docs: [EN](https://github.com/karatekah/karatty#readme) / [ES](https://github.com/karatekah/karatty/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/karatty/blob/main/docs/it/README.md)
 
   [![stars](https://img.shields.io/github/stars/karatekah/karatty?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/karatty/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/karatty?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/karatty/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/karatty?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/karatty/commits)
 
-- 🥋 [**PSS Taekwondo**](https://github.com/karatekah/Protector-and-Scoring-System-PSS-Taekwondo) — Manual scoreboard for training and exhibitions: one operator, one PC and a second screen. **TypeScript · Vite.**
+- 🥋 [**Octajang**](https://github.com/karatekah/octajang) — Manual Taekwondo scoreboard alpha for training and exhibitions, with a second-screen display, match records and JSON backups. **TypeScript · Vite.**
 
-  [![stars](https://img.shields.io/github/stars/karatekah/Protector-and-Scoring-System-PSS-Taekwondo?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/Protector-and-Scoring-System-PSS-Taekwondo/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/Protector-and-Scoring-System-PSS-Taekwondo?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/Protector-and-Scoring-System-PSS-Taekwondo/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/Protector-and-Scoring-System-PSS-Taekwondo?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/Protector-and-Scoring-System-PSS-Taekwondo/commits)
+  [Try the demo](https://octajang.vercel.app) · [User guide](https://octajang.vercel.app/guide.html) · [Alpha release](https://github.com/karatekah/octajang/releases/tag/v0.1.0-alpha.1) · Docs: [EN](https://github.com/karatekah/octajang#readme) / [ES](https://github.com/karatekah/octajang/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/octajang/blob/main/docs/it/README.md)
+
+  [![stars](https://img.shields.io/github/stars/karatekah/octajang?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/octajang/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/octajang?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/octajang/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/octajang?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/octajang/commits)
 
 - 🔐 [**passGeneratorV1.0**](https://github.com/karatekah/passGeneratorV1.0) — Configurable CLI password generator using Python's `secrets` module. **Python.**
 
