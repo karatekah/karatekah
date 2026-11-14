@@ -74,19 +74,19 @@
 
   [![stars](https://img.shields.io/github/stars/karatekah/karatty?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/karatty/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/karatty?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/karatty/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/karatty?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/karatty/commits)
 
-- 🥋 [**Octajang**](https://github.com/karatekah/octajang) — Manual Taekwondo scoreboard alpha for training and exhibitions, with a second-screen display, match records and JSON backups. **TypeScript · Vite.**
+- 🥋 [**Octajang**](https://github.com/karatekah/octajang) — Free 1.0 manual Taekwondo scoreboard for training and exhibitions, with a synchronized second-screen display, match records and JSON backups. **TypeScript · Vite.**
 
-  [Try the demo](https://octajang.vercel.app) · [User guide](https://octajang.vercel.app/guide.html) · [Alpha release](https://github.com/karatekah/octajang/releases/tag/v0.1.0-alpha.1) · Docs: [EN](https://github.com/karatekah/octajang#readme) / [ES](https://github.com/karatekah/octajang/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/octajang/blob/main/docs/it/README.md)
+  [Try Free 1.0](https://octajang.vercel.app) · [User guide](https://octajang.vercel.app/guia) · [Free 1.0 release](https://github.com/karatekah/octajang/releases/tag/v1.0.0) · Docs: [EN](https://github.com/karatekah/octajang#readme) / [ES](https://github.com/karatekah/octajang/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/octajang/blob/main/docs/it/README.md)
 
   [![stars](https://img.shields.io/github/stars/karatekah/octajang?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/octajang/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/octajang?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/octajang/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/octajang?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/octajang/commits)
 
-- 🔐 [**passGeneratorV1.0**](https://github.com/karatekah/passGeneratorV1.0) — Configurable CLI password generator using Python's `secrets` module. **Python.**
+- 🔐 [**passGeneratorV1.0**](https://github.com/karatekah/passGeneratorV1.0) *(private)* — Configurable CLI password generator using Python's `secrets` module. **Python.**
 
-  [![stars](https://img.shields.io/github/stars/karatekah/passGeneratorV1.0?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/passGeneratorV1.0/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/passGeneratorV1.0?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/passGeneratorV1.0/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/passGeneratorV1.0?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/passGeneratorV1.0/commits)
+  ![stars: private](https://img.shields.io/badge/stars-private-d6b36d?style=flat-square) ![watching: private](https://img.shields.io/badge/watching-private-bd3c4c?style=flat-square) ![last commit: private](https://img.shields.io/badge/last%20commit-private-697a99?style=flat-square)
 
-- 🗝️ [**passGenerator-Manage**](https://github.com/karatekah/passGenerator-Manage) — A second Python password-generator repository. **Python.**
+- 🗝️ [**passGenerator-Manage**](https://github.com/karatekah/passGenerator-Manage) *(private)* — A second Python password-generator repository. **Python.**
 
-  [![stars](https://img.shields.io/github/stars/karatekah/passGenerator-Manage?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/passGenerator-Manage/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/passGenerator-Manage?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/passGenerator-Manage/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/passGenerator-Manage?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/passGenerator-Manage/commits)
+  ![stars: private](https://img.shields.io/badge/stars-private-d6b36d?style=flat-square) ![watching: private](https://img.shields.io/badge/watching-private-bd3c4c?style=flat-square) ![last commit: private](https://img.shields.io/badge/last%20commit-private-697a99?style=flat-square)
 
 - 🛠️ [**Karatekah — GitHub profile**](https://github.com/karatekah/karatekah) — Samurai-themed profile README with technology badges and daily public GitHub activity cards. **Markdown · SVG · GitHub Actions.**
 
@@ -101,7 +101,7 @@
 
 <p align="center"><a href="https://github.com/karatekah/karatekah/actions/workflows/profile-stats.yml"><img alt="Profile statistics workflow" src="https://github.com/karatekah/karatekah/actions/workflows/profile-stats.yml/badge.svg" /></a></p>
 
-<sub>Public data only. Cards are generated by GitHub Readme Stats Action and refreshed daily through GitHub Actions. Language shares measure code size, not proficiency. Watcher badges count repository subscribers.</sub>
+<sub>Activity cards use public data only. Cards are generated by GitHub Readme Stats Action and refreshed daily through GitHub Actions. Language shares measure code size, not proficiency. Watcher badges count repository subscribers. Private project badges show visibility instead of unavailable metrics.</sub>
 
 ---
 
