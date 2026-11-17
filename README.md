@@ -80,6 +80,12 @@
 
   [![stars](https://img.shields.io/github/stars/karatekah/octajang?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/octajang/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/octajang?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/octajang/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/octajang?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/octajang/commits)
 
+- 📖 [**Dojario**](https://github.com/karatekah/dojario) *(private)* — Spanish-language Taekwondo guide with dojang Korean, fundamentals, glossary search and short practice exercises. **Astro · TypeScript · Tailwind CSS.**
+
+  [Visit the guide](https://dojario.vercel.app)
+
+  ![stars: private](https://img.shields.io/badge/stars-private-d6b36d?style=flat-square) ![watching: private](https://img.shields.io/badge/watching-private-bd3c4c?style=flat-square) ![last commit: private](https://img.shields.io/badge/last%20commit-private-697a99?style=flat-square)
+
 - 🔐 [**passGeneratorV1.0**](https://github.com/karatekah/passGeneratorV1.0) *(private)* — Configurable CLI password generator using Python's `secrets` module. **Python.**
 
   ![stars: private](https://img.shields.io/badge/stars-private-d6b36d?style=flat-square) ![watching: private](https://img.shields.io/badge/watching-private-bd3c4c?style=flat-square) ![last commit: private](https://img.shields.io/badge/last%20commit-private-697a99?style=flat-square)
