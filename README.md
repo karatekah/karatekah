@@ -75,11 +75,11 @@
 
   ![stars](https://img.shields.io/github/stars/karatekah/karatty?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/karatty?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/karatty?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/karatty/commits)
 
-- 🔀 [**GithubSwapping**](https://github.com/karatekah/GithubSwapping) — PowerShell CLI for assigning and validating Git identities and GitHub accounts per repository. **PowerShell · Git.**
+- 🔀 [**Git Swapping**](https://github.com/karatekah/git-swapping) — Windows PowerShell CLI with an interactive installer for per-repository Git identities and offline checks of GitHub HTTPS remotes and push destinations. **PowerShell · Git.**
 
-  [Quick start](https://github.com/karatekah/GithubSwapping#quick-start) · [v0.1.0-alpha.2](https://github.com/karatekah/GithubSwapping/releases/tag/v0.1.0-alpha.2)
+  [Install from source](https://github.com/karatekah/git-swapping#quick-start) · [Alpha release v0.1.0-alpha.2](https://github.com/karatekah/git-swapping/releases/tag/v0.1.0-alpha.2) · [EN](https://github.com/karatekah/git-swapping#readme) / [ES](https://github.com/karatekah/git-swapping/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/git-swapping/blob/main/docs/it/README.md)
 
-  ![stars](https://img.shields.io/github/stars/karatekah/GithubSwapping?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/GithubSwapping?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/GithubSwapping?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/GithubSwapping/commits)
+  ![stars](https://img.shields.io/github/stars/karatekah/git-swapping?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/git-swapping?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/git-swapping?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/git-swapping/commits)
 
 - 🥋 **Octajang** *(private source)* — Free 1.0 manual Taekwondo scoreboard for training and exhibitions, with a synchronized second-screen display, match records and JSON backups. **TypeScript · Vite.**
 
