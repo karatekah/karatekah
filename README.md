@@ -18,6 +18,7 @@
 <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logoColor=white&logo=html5" />
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logoColor=white&logo=openjdk" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logoColor=white&logo=php" />
+<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-365B8C?style=flat" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logoColor=white&logo=python" />
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logoColor=white&logo=ruby" />
 <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat&logoColor=white&logo=rust" />
@@ -72,31 +73,37 @@
 
   [Download alpha](https://github.com/karatekah/karatty/releases/tag/v0.1.0-alpha.1) · [Quick start](https://github.com/karatekah/karatty/blob/main/docs/quickstart.md) · Docs: [EN](https://github.com/karatekah/karatty#readme) / [ES](https://github.com/karatekah/karatty/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/karatty/blob/main/docs/it/README.md)
 
-  [![stars](https://img.shields.io/github/stars/karatekah/karatty?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/karatty/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/karatty?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/karatty/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/karatty?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/karatty/commits)
+  ![stars](https://img.shields.io/github/stars/karatekah/karatty?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/karatty?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/karatty?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/karatty/commits)
 
-- 🥋 [**Octajang**](https://github.com/karatekah/octajang) — Free 1.0 manual Taekwondo scoreboard for training and exhibitions, with a synchronized second-screen display, match records and JSON backups. **TypeScript · Vite.**
+- 🔀 [**GithubSwapping**](https://github.com/karatekah/GithubSwapping) — PowerShell CLI for assigning and validating Git identities and GitHub accounts per repository. **PowerShell · Git.**
 
-  [Try Free 1.0](https://octajang.vercel.app) · [User guide](https://octajang.vercel.app/guia) · [Free 1.0 release](https://github.com/karatekah/octajang/releases/tag/v1.0.0) · Docs: [EN](https://github.com/karatekah/octajang#readme) / [ES](https://github.com/karatekah/octajang/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/octajang/blob/main/docs/it/README.md)
+  [Quick start](https://github.com/karatekah/GithubSwapping#quick-start) · [v0.1.0-alpha.2](https://github.com/karatekah/GithubSwapping/releases/tag/v0.1.0-alpha.2)
 
-  [![stars](https://img.shields.io/github/stars/karatekah/octajang?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/octajang/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/octajang?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/octajang/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/octajang?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/octajang/commits)
+  ![stars](https://img.shields.io/github/stars/karatekah/GithubSwapping?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/GithubSwapping?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/GithubSwapping?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/GithubSwapping/commits)
 
-- 📖 [**Dojario**](https://github.com/karatekah/dojario) *(private)* — Spanish-language Taekwondo guide with dojang Korean, fundamentals, glossary search and short practice exercises. **Astro · TypeScript · Tailwind CSS.**
+- 🥋 **Octajang** *(private source)* — Free 1.0 manual Taekwondo scoreboard for training and exhibitions, with a synchronized second-screen display, match records and JSON backups. **TypeScript · Vite.**
+
+  [Try Free 1.0](https://octajang.vercel.app) · [User guide](https://octajang.vercel.app/guia)
+
+  ![stars: private](https://img.shields.io/badge/stars-private-d6b36d?style=flat-square) ![watching: private](https://img.shields.io/badge/watching-private-bd3c4c?style=flat-square) ![last commit: private](https://img.shields.io/badge/last%20commit-private-697a99?style=flat-square)
+
+- 📖 **Dojario** *(private source)* — Spanish-language Taekwondo guide with dojang Korean, fundamentals, glossary search and short practice exercises. **Astro · TypeScript · Tailwind CSS.**
 
   [Visit the guide](https://dojario.vercel.app)
 
   ![stars: private](https://img.shields.io/badge/stars-private-d6b36d?style=flat-square) ![watching: private](https://img.shields.io/badge/watching-private-bd3c4c?style=flat-square) ![last commit: private](https://img.shields.io/badge/last%20commit-private-697a99?style=flat-square)
 
-- 🔐 [**passGeneratorV1.0**](https://github.com/karatekah/passGeneratorV1.0) *(private)* — Configurable CLI password generator using Python's `secrets` module. **Python.**
+- 🔐 **passGeneratorV1.0** — Configurable CLI password generator using Python's `secrets` module. **Python.**
 
-  ![stars: private](https://img.shields.io/badge/stars-private-d6b36d?style=flat-square) ![watching: private](https://img.shields.io/badge/watching-private-bd3c4c?style=flat-square) ![last commit: private](https://img.shields.io/badge/last%20commit-private-697a99?style=flat-square)
+  ![stars: unavailable](https://img.shields.io/badge/stars-unavailable-d6b36d?style=flat-square) ![watching: unavailable](https://img.shields.io/badge/watching-unavailable-bd3c4c?style=flat-square) ![last commit: unavailable](https://img.shields.io/badge/last%20commit-unavailable-697a99?style=flat-square)
 
-- 🗝️ [**passGenerator-Manage**](https://github.com/karatekah/passGenerator-Manage) *(private)* — A second Python password-generator repository. **Python.**
+- 🗝️ **passGenerator-Manage** — A second Python password-generator repository. **Python.**
 
-  ![stars: private](https://img.shields.io/badge/stars-private-d6b36d?style=flat-square) ![watching: private](https://img.shields.io/badge/watching-private-bd3c4c?style=flat-square) ![last commit: private](https://img.shields.io/badge/last%20commit-private-697a99?style=flat-square)
+  ![stars: unavailable](https://img.shields.io/badge/stars-unavailable-d6b36d?style=flat-square) ![watching: unavailable](https://img.shields.io/badge/watching-unavailable-bd3c4c?style=flat-square) ![last commit: unavailable](https://img.shields.io/badge/last%20commit-unavailable-697a99?style=flat-square)
 
 - 🛠️ [**Karatekah — GitHub profile**](https://github.com/karatekah/karatekah) — Samurai-themed profile README with technology badges and daily public GitHub activity cards. **Markdown · SVG · GitHub Actions.**
 
-  [![stars](https://img.shields.io/github/stars/karatekah/karatekah?style=flat-square&label=stars&color=d6b36d)](https://github.com/karatekah/karatekah/stargazers) [![watching](https://img.shields.io/github/watchers/karatekah/karatekah?style=flat-square&label=watching&color=bd3c4c)](https://github.com/karatekah/karatekah/watchers) [![last commit](https://img.shields.io/github/last-commit/karatekah/karatekah?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/karatekah/commits)
+  ![stars](https://img.shields.io/github/stars/karatekah/karatekah?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/karatekah?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/karatekah?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/karatekah/commits)
 
 <h2 align="center">📊 GitHub activity</h2>
 
@@ -107,7 +114,7 @@
 
 <p align="center"><a href="https://github.com/karatekah/karatekah/actions/workflows/profile-stats.yml"><img alt="Profile statistics workflow" src="https://github.com/karatekah/karatekah/actions/workflows/profile-stats.yml/badge.svg" /></a></p>
 
-<sub>Activity cards use public data only. Cards are generated by GitHub Readme Stats Action and refreshed daily through GitHub Actions. Language shares measure code size, not proficiency. Watcher badges count repository subscribers. Private project badges show visibility instead of unavailable metrics.</sub>
+<sub>Activity cards use public data only. Cards are generated by GitHub Readme Stats Action and refreshed daily through GitHub Actions. Language shares measure code size, not proficiency. Watcher badges count repository subscribers. Badges show when repository metrics are private or unavailable.</sub>
 
 ---
 
