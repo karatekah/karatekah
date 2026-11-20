@@ -69,6 +69,12 @@
 
 <h2 align="center">✨ Selected projects</h2>
 
+- 🔊 [**DinamicScreenSound**](https://github.com/karatekah/DinamicScreenSound) — Windows 11 console prototype that switches an app's audio output as its window moves between two displays. **C# · .NET 10 · Windows Core Audio.**
+
+  [Build and run](https://github.com/karatekah/DinamicScreenSound#build-and-run) · [Try window following](https://github.com/karatekah/DinamicScreenSound#follow-a-window)
+
+  ![stars](https://img.shields.io/github/stars/karatekah/DinamicScreenSound?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/DinamicScreenSound?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/DinamicScreenSound?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/DinamicScreenSound/commits)
+
 - 💬 [**Karatty**](https://github.com/karatekah/karatty) — Experimental terminal chat with SSH-key identities, accepted 1:1 conversations, local E2EE and encrypted archives. **Go · Rust · PostgreSQL.**
 
   [Download alpha](https://github.com/karatekah/karatty/releases/tag/v0.1.0-alpha.1) · [Quick start](https://github.com/karatekah/karatty/blob/main/docs/quickstart.md) · Docs: [EN](https://github.com/karatekah/karatty#readme) / [ES](https://github.com/karatekah/karatty/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/karatty/blob/main/docs/it/README.md)
