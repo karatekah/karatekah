@@ -69,21 +69,21 @@
 
 <h2 align="center">✨ Selected projects</h2>
 
-- 🔊 [**DinamicScreenSound**](https://github.com/karatekah/DinamicScreenSound) — Windows 11 console prototype that switches an app's audio output as its window moves between two displays. **C# · .NET 10 · Windows Core Audio.**
+- 🔊 [**DinamicScreenSound**](https://github.com/karatekah/DinamicScreenSound) — Windows 11 tray app that routes an app's audio to the output assigned to its display, with optional fixed outputs for individual apps. **C# · .NET 10 · Windows Core Audio.**
 
-  [Build and run](https://github.com/karatekah/DinamicScreenSound#build-and-run) · [Try window following](https://github.com/karatekah/DinamicScreenSound#follow-a-window)
+  [Install on Windows](https://github.com/karatekah/DinamicScreenSound#install-and-run-on-windows) · [Set a fixed output for an app](https://github.com/karatekah/DinamicScreenSound#set-a-fixed-output-for-an-app)
 
   ![stars](https://img.shields.io/github/stars/karatekah/DinamicScreenSound?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/DinamicScreenSound?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/DinamicScreenSound?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/DinamicScreenSound/commits)
 
 - 💬 [**Karatty**](https://github.com/karatekah/karatty) — Experimental terminal chat with SSH-key identities, accepted 1:1 conversations, local E2EE and encrypted archives. **Go · Rust · PostgreSQL.**
 
-  [Download alpha](https://github.com/karatekah/karatty/releases/tag/v0.1.0-alpha.1) · [Quick start](https://github.com/karatekah/karatty/blob/main/docs/quickstart.md) · Docs: [EN](https://github.com/karatekah/karatty#readme) / [ES](https://github.com/karatekah/karatty/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/karatty/blob/main/docs/it/README.md)
+  [Build and run from source](https://github.com/karatekah/karatty/blob/main/docs/quickstart.md) · [Alpha.1 client packages](https://github.com/karatekah/karatty/releases/tag/v0.1.0-alpha.1) · Docs: [EN](https://github.com/karatekah/karatty#readme) / [ES](https://github.com/karatekah/karatty/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/karatty/blob/main/docs/it/README.md)
 
   ![stars](https://img.shields.io/github/stars/karatekah/karatty?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/karatty?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/karatty?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/karatty/commits)
 
-- 🔀 [**Git Swapping**](https://github.com/karatekah/git-swapping) — Windows PowerShell CLI with an interactive installer for per-repository Git identities and offline checks of GitHub HTTPS remotes and push destinations. **PowerShell · Git.**
+- 🔀 [**Git Swapping**](https://github.com/karatekah/git-swapping) — Windows PowerShell CLI that selects a per-repository Git profile from the GitHub remote owner, previews changes, and checks HTTPS remotes and push destinations offline. **PowerShell · Git.**
 
-  [Install from source](https://github.com/karatekah/git-swapping#quick-start) · [Alpha release v0.1.0-alpha.2](https://github.com/karatekah/git-swapping/releases/tag/v0.1.0-alpha.2) · [EN](https://github.com/karatekah/git-swapping#readme) / [ES](https://github.com/karatekah/git-swapping/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/git-swapping/blob/main/docs/it/README.md)
+  [Install from main](https://github.com/karatekah/git-swapping#quick-start) · [Alpha.3 notes](https://github.com/karatekah/git-swapping/blob/main/docs/releases/v0.1.0-alpha.3.md) · [Alpha.2 release](https://github.com/karatekah/git-swapping/releases/tag/v0.1.0-alpha.2) · [EN](https://github.com/karatekah/git-swapping#readme) / [ES](https://github.com/karatekah/git-swapping/blob/main/docs/es/README.md) / [IT](https://github.com/karatekah/git-swapping/blob/main/docs/it/README.md)
 
   ![stars](https://img.shields.io/github/stars/karatekah/git-swapping?style=flat-square&label=stars&color=d6b36d) ![watching](https://img.shields.io/github/watchers/karatekah/git-swapping?style=flat-square&label=watching&color=bd3c4c) [![last commit](https://img.shields.io/github/last-commit/karatekah/git-swapping?style=flat-square&label=last%20commit&color=697a99)](https://github.com/karatekah/git-swapping/commits)
 
